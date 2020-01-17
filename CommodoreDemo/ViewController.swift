@@ -72,6 +72,16 @@ class ViewController: UIViewController {
     }
     
     
+    @IBAction func join_clicked(_ sender: Any) {
+        starWarsLabel.text = "Hello!"
+    }
+    
+    @IBAction func leave_clicked(_ sender: Any) {
+        starWarsLabel.text = "Goodbye!"
+    }
+    
+    
+    
     
  
     
