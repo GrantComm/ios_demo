@@ -19,5 +19,5 @@ An ios demo by Grant Commodore that allows the user to switch between two images
 - [x] 4. User can update the label text with custom text entered into the text field.
    - [x] a. User can enter text into a text field using the keyboard.
    - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.
-   - [ ] c. If the text field is empty, update label with default text string.
+   - [x] c. If the text field is empty, update label with default text string.
    - [x] d. The keyboard is dismissed after the button has been tapped.
