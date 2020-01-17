@@ -5,7 +5,7 @@ An ios demo by Grant Commodore that allows the user to switch between two images
 
 ### App Walk-though
 
-<img src="ios_demo_walkthrough.giff" width=200><br>
+<img src="ios_demo_walkthrough.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
