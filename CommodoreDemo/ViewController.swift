@@ -55,6 +55,23 @@ class ViewController: UIViewController {
     }
     
     
+    @IBAction func where_clicked(_ sender: Any) {
+        if(from_whoLabel.text == "Anakin Skywalker!"){
+            view.backgroundColor = UIColor.white
+        }
+        else if(from_whoLabel.text == "Darth Vader!"){
+            view.backgroundColor = UIColor.gray
+        }
+        else{
+            view.backgroundColor = UIColor.black
+        }
+    }
+    
+    
+    
+ 
+    
+    
 
 }
 
