@@ -52,6 +52,10 @@ class ViewController: UIViewController {
         from_whoLabel.text = character_inputTextField.text
         from_whoLabel.textColor = UIColor.green
         characterImage.image = nil
+        if(character_inputTextField.text == ""){
+            from_whoLabel.text = "DefaultUSR"
+            from_whoLabel.textColor = UIColor.green
+        }
     }
     
     
